@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Interested in Joining the Group?"
+title = "Join Us?"
 
 subtitle = "We are always open for collaboration with motivated researchers and students with passion in our relevant research interest."   		
 

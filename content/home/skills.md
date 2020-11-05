@@ -2,10 +2,10 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 28  # Order that this section will appear.
 
-title = "Skills"
+title = "Research Areas"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,22 +15,25 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "language"
+  icon_pack = "fas"
+  name = "Natural Language Processing"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Machine Learning"
+  description = ""  
   
-[[feature]]
-  icon = "camera-retro"
+
+  
+  [[feature]]
+  icon = "sort-alpha-up"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "HausaNLP"
+  description = ""
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
