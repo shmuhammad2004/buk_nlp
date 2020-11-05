@@ -68,7 +68,7 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups: ['Researchers', 'Team Leader']
+user_groups: ['Researchers']
 
 ---
 Shamsuddeen Muhammad is a PhD candidate at the [MAPi Doctoral Program in Computer Science](https://mapi.map.edu.pt/pages/1), a joint Ph.D. program offered by the [University of Minho](https://www.uminho.pt/EN/Pages/default.aspx), the [University of Aveiro](https://www.ua.pt/#/), and the [University of Porto](https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home). He is also a researcher at the Laboratory of Artificial Intelligence and Decision Support [LIAAD-INESTEC](https://www.inesctec.pt/en#intro). His research interest focus on Machine Learning and Natural Language Processing. 
