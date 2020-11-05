@@ -5,7 +5,7 @@
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+weight = 29  # Order that this section will appear.
 
 title = "Meet the Team"
 subtitle = ""
@@ -38,7 +38,7 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
+   gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
