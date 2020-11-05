@@ -5,8 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Contact"
-subtitle = ""
+title = "Interested in Joining the Group?"
+
+subtitle = "We are always open for collaboration with motivated researchers and students with passion in our relevant research interest."   		
+
 
 # Automatically link email and phone?
 autolink = true
@@ -15,10 +17,6 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
-
-# Netlify form settings.
-[netlify]
-  captcha = false  # Enable CAPTCHA challenge to reduce spam?
+email_form = 0
 +++
 
