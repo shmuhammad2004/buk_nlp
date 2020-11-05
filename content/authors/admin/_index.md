@@ -41,7 +41,7 @@ user_groups: [""]
 ---
 
 
-BUKNLP is a Research Group for Natural Language Processing and Machine Learning at Bayero University, Kano-Nigeria. The research group is consists of academic researchers from computer science, linguistic, and students 
+BUKNLP is a Research Group for Natural Language Processing and Machine Learning at Bayero University, Kano-Nigeria. The research group  consists of academic researchers from computer science, linguistic, and students 
 
 The group research activities include sentiment analysis, social media analysis, machine translation, Computational Social Science, information retrieval, textual analysis, multilingual natural language processing as well as the creation of linguistic resources (dictionaries and annotated corpora) for applications of various types. Recently, the group focused on natural language processing for low-resource languages and related task.
 
