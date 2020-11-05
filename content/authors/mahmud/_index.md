@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mahmud
+title: Mahmud Yusuf Ahmad
 
 # Username (this should match the folder name)
 authors:
@@ -29,15 +29,14 @@ interests:
 
 education:
   courses:
-  - course: PhD inComputer Science
-    institution: University of 
-    year: 2012
-  - course: MSc in 
-    institution: University of ..
-    year: 2009
+  - course: PhD in Computer Science (In View)
+    institution: University of Huddersfield, United Kingdom.
+  - course: MSc in Computer Science 
+    institution: University of putra malaysia
+    year: 2013
   - course: BSc in Computer Science
     institution: Bayero University, Kano
-    year: 2008
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -71,4 +70,11 @@ user_groups: ['Researchers']
 
 ---
 
-Mahmud is a ....
+
+Mahmud is an academic staff at the department of computer science, Bayero University Kano. He is currently a Doctorate researcher at the department of computer science, University of Huddersfield, United Kingdom. His research interest and specialization lies in Data mining, Machine Learning, Learning Analytics and Big data anaytics.
+
+
+<style>
+body {
+text-align: justify}
+</style>

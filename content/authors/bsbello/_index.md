@@ -22,8 +22,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Machine Learning
+- Social Media Analysis
+- Natural Language Processing
 - Computational Social Science
-- Social media analysis
 
 education:
   courses:
