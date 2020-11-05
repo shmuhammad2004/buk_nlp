@@ -21,10 +21,12 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Learning Analytics
-- Data Science
+- Data mining
 - Machine Learning
-- Formal Concept Analysis
+- Learning Analytics
+- Big data
+
+
 
 
 education:
