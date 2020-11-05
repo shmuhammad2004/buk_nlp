@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ibrahim Said Ahmad
+title: Ibrahim Said Ahmad
 
 # Username (this should match the folder name)
 authors:
@@ -27,7 +27,7 @@ interests:
 education:      
   courses: 
 
-  - course: PhD in computer Science (In View)
+  - course: PhD in computer Science 
     institution: PhD Universiti Kebangsaan Malaysia 
     year: 2020
   - course: MSc in Computer Science
@@ -71,7 +71,7 @@ user_groups: ['Researchers']
 
 ---
 
-Ibrahim Said Ahmad is lecturer in Department of Information Technology, Bayero University Kano. He received his BSc degree in Computer Science from Bayero University Kano, Nigeria, in 2011 and his MSc degree in Information Technology from The University of Nottingham, UK, in 2014. He is currently a PhD candidate in Universiti Kebangsaan Malaysia. He has published a number of journal articles and attended many conferences. 
+Ibrahim Said Ahmad is lecturer in the Department of Information Technology, Bayero University Kano. He completed his PhD from Universiti Kebangsaan Malaysia, in 2020 focusing on data science. His main areas of interest lie in Data Analytics, Natural Language Processing and Artificial Intelligence specifically in business intelligence and computational intelligence. He has worked and published articles on sentiment analysis, natural language processing, and data mining. 
 
 <style>
 body {

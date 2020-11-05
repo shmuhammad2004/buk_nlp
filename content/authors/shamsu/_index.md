@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Shamsuddeen Hassan Muhammad
+title: Shamsuddeen Hassan Muhammad
 
 # Username (this should match the folder name)
 authors:

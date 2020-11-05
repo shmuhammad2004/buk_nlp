@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Bello Shehu Bello
+title: Bello Shehu Bello
 
 # Username (this should match the folder name)
 authors:
@@ -21,15 +21,15 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Data Analytics
-- Information Retrieval
-- 
+- Machine Learning
+- Computational Social Science
+- Social media analysis
 
 education:
   courses:
-  - course: PhD in Computer Science (In View)
+  - course: PhD in Computer Science 
     institution: University of Leicester
-    year: 20xx
+    year: 2020
   - course: MSc Computer Science
     institution: University of Leicester
     year: 2014
@@ -65,7 +65,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups: ['Researchers']
-
 ---
 
-Bello Shehu Bello is.....
+
+Bello Shehu Bello is a lecturer at the Department of Computer Science Bayero University Kano. He obtained his PhD in Computer Science from University of Leicester, United Kingdom. His research interests focus on Social media analysis, Machine Learning and Computational Social Science. Bello has worked and published articles on Social media  and Artificial Intelligence, particularly the use of automated accounts on social media for election campaigns, opinion manipulation and spread of propaganda.
+
+<style>
+body {
+text-align: justify}
+</style>
+

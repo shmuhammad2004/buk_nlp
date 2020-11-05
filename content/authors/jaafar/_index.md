@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jaafar Zubairu Maitama
+title: Jaafar Zubairu Maitama
 
 # Username (this should match the folder name)
 authors:
