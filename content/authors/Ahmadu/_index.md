@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Abdulmumini
+title: Ahamdu Shehu
 
 # Username (this should match the folder name)
 authors:
-- Abdulmumini Muhammad 
+- amadu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lecturer in Computer Science at Ahmadu Bello University, Zaria (ABU)
+role: Assistant Professor of English and Literature at the American University of Nigeria, Yola 
 
 # Organizations/Affiliations
 organizations:
@@ -21,20 +21,20 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cognitive Linguistics
+- Cultural Linguistics 
+- Structural aspects of African languages
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Linguistic
+    institution:  University of Warsaw, Poland
+    year: 2019
+  - course: Master in Linguistic
+    institution: University of Malaya
+    year: 2013
+  - course: BA in Lingusitics
+    institution: University of Maiduguri
     year: 2008
 
 # Social/Academic Networking
@@ -68,3 +68,5 @@ email: ""
 user_groups: ['Collaborators']
 
 ---
+
+Ahmadu Shehu is a trained Linguist who holds a First Class degree, Masters and Ph.D. in Linguistics from the Universities of Maiduguri, Malaya and Warsaw, respectively. He has nearly two decades of experience in teaching languages and linguistics at primary, secondary and university levels. Ahmadu is currently an Assistant Professor of English and Literature at the American University of Nigeria, Yola. He had previously taught Linguistics and Nigerian languages, especially Hausa and Fulfulde at Bayero University, Kano, and was a visiting scholar at the Universities of Hamburg, Cologne and Vienna where he conducted research and presented numerous lectures. His research works, publications and interests cover various theories of Cognitive Linguistics, Cultural Linguistics and structural aspects of African languages. He has also participated in European funded scholarships and research grants with excellent outputs.     
