@@ -14,8 +14,8 @@ role: Assistant Professor of English and Literature at the American University o
 
 # Organizations/Affiliations
 organizations:
-- name: Ahmadu Bello University, Kano
-  url: "http://abu.edu.ng/"
+- name: American University of Nigeria, Yola 
+  url: "https://www.aun.edu.ng/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
