@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Abdulmumini
+title: Idris Abdulmumin
 
 # Username (this should match the folder name)
 authors:
-- Abdulmumini Muhammad 
+- Abdulmumin
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,21 +21,20 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Translation
+- Natural Language Processing
+- Neural Machine Translation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Computer Science(In View)
+    institution: Bayero University, Kano -Nigeria
+  - course: MSc in Computer Science
+    institution: University of 
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Computer Science
+    institution: Bayero University, Kano
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -68,3 +67,4 @@ email: ""
 user_groups: ['Collaborators']
 
 ---
+
