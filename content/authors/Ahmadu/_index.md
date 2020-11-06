@@ -30,12 +30,13 @@ education:
   - course: PhD in Linguistic
     institution:  University of Warsaw, Poland
     year: 2019
-  - course: Master in Linguistic
+  - course: Masters in Linguistic
     institution: University of Malaya
-    year: 2013
-  - course: BA in Lingusitics
+    year: 2014
+  - course: B.A. in Lingusitics
     institution: University of Maiduguri
-    year: 2008
+    year: 2009
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
