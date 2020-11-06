@@ -44,14 +44,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: #mailto:isahmad.it@buk.edu.ng
-- icon: twitter  
-  icon_pack: fab
-  link: https://twitter.com/isabone?s=09
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Ibrahim_Said_Ahmad
+  link: 'mailto:isahmad.it@buk.edu.ng'  
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.nl/citations?user=QA4Aib4AAAAJ&hl=en
   
+
   
   
   
