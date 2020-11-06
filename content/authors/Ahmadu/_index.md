@@ -70,3 +70,9 @@ user_groups: ['Collaborators']
 ---
 
 Ahmadu Shehu is a trained Linguist who holds a First Class degree, Masters and Ph.D. in Linguistics from the Universities of Maiduguri, Malaya and Warsaw, respectively. He has nearly two decades of experience in teaching languages and linguistics at primary, secondary and university levels. Ahmadu is currently an Assistant Professor of English and Literature at the American University of Nigeria, Yola. He had previously taught Linguistics and Nigerian languages, especially Hausa and Fulfulde at Bayero University, Kano, and was a visiting scholar at the Universities of Hamburg, Cologne and Vienna where he conducted research and presented numerous lectures. His research works, publications and interests cover various theories of Cognitive Linguistics, Cultural Linguistics and structural aspects of African languages. He has also participated in European funded scholarships and research grants with excellent outputs.     
+
+
+<style>
+body {
+text-align: justify}
+</style>
