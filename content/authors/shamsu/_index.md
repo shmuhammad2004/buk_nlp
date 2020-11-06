@@ -23,9 +23,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Sentimemnt Analysis
 - Machine Learning
-- Deep Learning
 - Data Science
-- Reproducible Research
+- Low-resource NLP
 
 
 education:
